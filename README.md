@@ -1,4 +1,8 @@
 # CSE881 Final Project
- MSU CSE881 Final Project
+CSE881 Data Mining Final Project
 
- Be sure to download the required data, more infomration is provided in the 'Data' Folder.
+University: Michigan State University <br>
+Professor: Pang-Ning Tan <br>
+
+* All Streamlit Python code is created by me, Nickolaus White. The Jupyter Notebook is a collabroation between me, Nickolaus White, and my fellow researchers Stephen Lee and Mark Carravallah. 
+* Note: Be sure to download the required data, more infomration is provided in the 'Data' Folder.
